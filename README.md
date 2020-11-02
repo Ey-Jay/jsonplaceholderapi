@@ -1,1 +1,1 @@
-# JSON Placeholder API JS client 🚧(in development)
+# JSONPlaceholder JS client 🚧(in development)
