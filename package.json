@@ -1,5 +1,5 @@
 {
-  "name": "jsonplaceholderapi",
+  "name": "jsonphapi",
   "version": "1.0.0",
   "description": "A Javascript wrapper for the JSON placeholder API.",
   "main": "src/index.js",
@@ -28,7 +28,8 @@
     "node",
     "jsonplaceholder",
     "jsonplaceholderapi",
-    "json"
+    "json",
+    "jsonphapi"
   ],
   "bugs": {
     "url": "https://github.com/Ey-Jay/jsonplaceholderapi-js/issues"
