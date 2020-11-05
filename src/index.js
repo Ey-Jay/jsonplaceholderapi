@@ -25,3 +25,4 @@ exports.getComment = (query = {}) => getData('comments', query);
 exports.getPhoto = (query = {}) => getData('photos', query);
 exports.getTodo = (query = {}) => getData('todos', query);
 exports.getAlbum = (query = {}) => getData('albums', query);
+// test push
