@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/Ey-Jay/jsonplaceholderapi-js.svg)](https://travis-ci.com/Ey-Jay/jsonplaceholderapi-js)
+
 # JSONPlaceholder JS client 🚧(in development)
 
 JavaScript client to facilitate the use of the [JSON Placeholder API](https://jsonplaceholder.typicode.com).
